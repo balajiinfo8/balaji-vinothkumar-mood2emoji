@@ -1,4 +1,4 @@
-
+https://balaji-vinothkumar-mood2emoji-ztugfqrk9xksfrja27z6dw.streamlit.app/
 ## Project Overview
 This web app lets kids enter short sentences and detects the mood (happy, neutral, sad) with a kid-friendly emoji and a short explanation. It uses TextBlob for sentiment analysis and filters inappropriate language for safety.
 
